@@ -1,0 +1,22 @@
+{
+	"name": "background-generator",
+	"version": "1.0.0",
+	"description": "Web app for creating gradient website backgrounds\r * Choose colors or use randomizer to create unique gradient backgrounds\r * Generates CSS code for each background\r * Made with JavaScript",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rclodeca/Background-Generator.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Rclodeca/Background-Generator/issues"
+	},
+	"homepage": "https://github.com/Rclodeca/Background-Generator#readme",
+	"dependencies": {
+		"lodash": "^4.17.10"
+	}
+}
